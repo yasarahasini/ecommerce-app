@@ -4,7 +4,7 @@ import { assets } from '../assets/assets'
 const OurPolicy = () => {
 
   return(
-     <div className='flex flex-col sm:flex-row justify-around gap-12 sm:gap-2 text-center py-20 text-xs sm:text-sm md:text-base text-gray-700'>
+     <div className='flex flex-col justify-around gap-12 py-20 text-xs text-center text-gray-700 sm:flex-row sm:gap-2 sm:text-sm md:text-base'>
 
     {/* Feature 1 */}
     <div>
